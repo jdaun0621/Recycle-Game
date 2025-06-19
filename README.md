@@ -1,6 +1,7 @@
 # Recycle Game / 수박 클론 게임
 
-순수 자바스크립트와 [matter.js](https://github.com/liabru/matter-js) 물리 엔진을 사용해 만든 수박 게임입니다.
+이 프로젝트는 [moonfloof](https://github.com/moonfloof)님의 수박게임을 기반으로 수정하였습니다.
+
 
 ---
 
