@@ -15,7 +15,6 @@
 
 ## 빌드 및 실행 방법
 
-1. 저장소를 클론 받습니다:
 
 ```bash
 git clone https://github.com/jdaun0621/Recycle-Game.git
